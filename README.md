@@ -18,9 +18,9 @@ $ python rgen.py
 
 For simplicity, we will limit ourselves to a string of length 20 in this example.
 
+```
 Print a random string containing 0 or 1:
 
-```
 > 01000111001
 Current data length is 11, 9 symbols left
 Print a random string containing 0 or 1:
